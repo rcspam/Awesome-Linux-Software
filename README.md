@@ -1118,6 +1118,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [![Open-Source Software][oss icon]](https://github.com/rafaelmardojai/blanket) [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
+- [![Open-Source Software][oss icon]](https://github.com/rcspam/dictee) [Dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation that types into any application, offline, with 25+ languages, automatic translation and speaker diarization.
 - [![Open-Source Software][oss icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/mautosoft/maxautoclicker/) [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).
 - [![Open-Source Software][oss icon]](https://github.com/robiot/xclicker) [XClicker](https://xclicker.xyz/) - A blazing fast gui autoclicker for linux.
